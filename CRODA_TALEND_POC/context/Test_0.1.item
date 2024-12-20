@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_EFsS0L7KEe-hj_H-lt8dXg" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_EFsS0b7KEe-hj_H-lt8dXg" comment="" name="LAST_UPDATED" prompt="LAST_UPDATED?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>
